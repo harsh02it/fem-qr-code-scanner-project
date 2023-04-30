@@ -21,7 +21,7 @@ This is a simple HTML and CSS based QR Code Scanner Project. The complete detail
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://harsh02it.github.io/fem-qr-code-scanner-project/)
 
 ## My process
 
